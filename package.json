@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-ss",
+  "version": "1.0.0",
+  "description": "PoC for taking SS through Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pinank Solanki",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
